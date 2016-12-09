@@ -2,11 +2,11 @@
 @import url(http://fonts.googleapis.com/css?family=Clicker+Script);
 
 /*////////// GLOBAL //////////*/
-
+/*/////   first//////   */
 h3 {
   margin: 0 0 10px;
 }
-
+/* /// // //// */
 p {
   font-size: 1em; /* 16px, ?pt, 100%, 1em */
   line-height: 1.5em;
